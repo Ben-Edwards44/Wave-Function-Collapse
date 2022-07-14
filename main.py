@@ -1,10 +1,13 @@
+#Author: Ben-Edwards44
+
+
 import pygame
 from os import listdir, getcwd
 from random import randint
 from tile import Tile
 
 
-PATH = f"{getcwd()}\\tile sets\\Rooms"
+PATH = f"{getcwd()}\\tile sets\\Circuit"
 WIDTH, HEIGHT = 600, 600
 TILES_X, TILES_Y = 20, 20
 
