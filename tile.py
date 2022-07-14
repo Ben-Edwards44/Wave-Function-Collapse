@@ -1,8 +1,11 @@
+#Author: Ben-Edwards44
+
+
 from PIL import Image
 from os import getcwd, listdir
 
 
-PATH = f"{getcwd()}\\tile sets\\Rooms"
+PATH = f"{getcwd()}\\tile sets\\Circuit"
 
 
 def init_edges():
