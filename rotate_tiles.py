@@ -1,3 +1,6 @@
+#Author: Ben-Edwards44
+
+
 from PIL import Image
 from os import getcwd, listdir
 
