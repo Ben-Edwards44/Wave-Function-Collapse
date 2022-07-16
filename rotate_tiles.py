@@ -5,7 +5,7 @@ from PIL import Image
 from os import getcwd, listdir
 
 
-PATH = f"{getcwd()}\\tile sets\\Rooms"
+PATH = f"{getcwd()}\\tile sets\\Circuit"
 
 
 def get_images(path):
